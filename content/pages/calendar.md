@@ -4,20 +4,213 @@ title: Calendar
 uid: 4e5c1575-20bb-d074-4a4b-c0abcd17099d
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Week 1**{{< /td-colspan >}} |||
-| 1 | Introduction | Homework 1 out |
-| 2 | Conditionals, loops | &nbsp; |
-| 3 | Defining functions |  {{< br >}}{{< br >}} Homework 1 due {{< br >}}{{< br >}} Homework 2 out {{< br >}}{{< br >}}  |
-| 4 | Strings, lists, list comprehensions | &nbsp; |
-| Optional lecture | Recursion |  {{< br >}}{{< br >}} Homework 2 due {{< br >}}{{< br >}} Project 1 out {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 2**{{< /td-colspan >}} |||
-| 5 | Tuples, dictionaries, common Python mistakes |  {{< br >}}{{< br >}} Project 1 due {{< br >}}{{< br >}} Homework 3 out {{< br >}}{{< br >}}  |
-| 6 | Classes | &nbsp; |
-| 7 | More about classes |  {{< br >}}{{< br >}} Homework 3 due {{< br >}}{{< br >}} Homework 4 out {{< br >}}{{< br >}}  |
-| 8 | Inheritance | Project 2 out |
-| {{< td-colspan 3 >}}**Week 3**{{< /td-colspan >}} |||
-| 9 | Review |  {{< br >}}{{< br >}} Final project out {{< br >}}{{< br >}} Homework 4 and project 2 due {{< br >}}{{< br >}}  |
-| 10 | More review | &nbsp; |
-| 11 | Questions and applications | Final project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Conditionals, loops
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Defining functions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 1 due
+
+Homework 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Strings, lists, list comprehensions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Optional lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Recursion
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 2 due
+
+Project 1 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Tuples, dictionaries, common Python mistakes
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 1 due
+
+Homework 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Classes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+More about classes
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 3 due
+
+Homework 4 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Inheritance
+{{< tdclose >}}
+{{< tdopen >}}
+Project 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Review
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final project out
+
+Homework 4 and project 2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+More review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Questions and applications
+{{< tdclose >}}
+{{< tdopen >}}
+Final project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
